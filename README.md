@@ -52,9 +52,9 @@
 
 <br />
 
-### **MICROSOFT POWER BI DASHBOARD**
+### **SEARCH BAR INTERFACE**
 
-<img src ="https://github.com/akashhvyas/Job-Analytics-Instahyre/blob/main/Graphics/Power%20BI%20Desktop.png"  width="1000" height="450" />
+<img src ="https://github.com/akashhvyas/Job-Search-Bar/blob/main/Graphic/Job%20Analytics%20%C2%B7%20Streamlit%20-%20Google%20Chrome%2001-05-2023%2000_41_14.png"  width="864" height="470" />
 
 <br />
 
