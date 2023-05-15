@@ -39,16 +39,16 @@
 
 ### **SNAPSHOTS**
 
-<img src ="https://github.com/akashhvyas/Job-Search-Bar/blob/main/Graphic/PowerPoint%20Presentation%20-%20Google%20Chrome%2016-05-2023%2000_02_50.png"  width="1008" height="566" />
+<img src ="https://github.com/akashhvyas/Job-Search-Bar/blob/main/Graphic/PowerPoint%20Presentation%20-%20Google%20Chrome%2016-05-2023%2000_02_50.png"  width="864" height="485" />
 
 <br />
-<img src ="https://github.com/akashhvyas/Job-Search-Bar/blob/main/Graphic/PowerPoint%20Presentation%20-%20Google%20Chrome%2016-05-2023%2000_03_06.png"  width="1008" height="566" />
+<img src ="https://github.com/akashhvyas/Job-Search-Bar/blob/main/Graphic/PowerPoint%20Presentation%20-%20Google%20Chrome%2016-05-2023%2000_03_06.png"  width="864" height="485" />
 
 <br />
-<img src ="https://github.com/akashhvyas/Job-Search-Bar/blob/main/Graphic/PowerPoint%20Presentation%20-%20Google%20Chrome%2016-05-2023%2000_03_19.png"  width="1008" height="566" />
+<img src ="https://github.com/akashhvyas/Job-Search-Bar/blob/main/Graphic/PowerPoint%20Presentation%20-%20Google%20Chrome%2016-05-2023%2000_03_19.png"  width="864" height="485" />
 
 <br />
-<img src ="https://github.com/akashhvyas/Job-Search-Bar/blob/main/Graphic/PowerPoint%20Presentation%20-%20Google%20Chrome%2016-05-2023%2000_03_24.png"  width="1008" height="566" />
+<img src ="https://github.com/akashhvyas/Job-Search-Bar/blob/main/Graphic/PowerPoint%20Presentation%20-%20Google%20Chrome%2016-05-2023%2000_03_24.png"  width="864" height="485" />
 
 <br />
 
