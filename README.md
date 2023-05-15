@@ -54,7 +54,7 @@
 
 ### **SEARCH BAR INTERFACE**
 
-<img src ="https://github.com/akashhvyas/Job-Search-Bar/blob/main/Graphic/Job%20Analytics%20%C2%B7%20Streamlit%20-%20Google%20Chrome%2001-05-2023%2000_41_14.png"  width="650" height="500" />
+<img src ="https://github.com/akashhvyas/Job-Search-Bar/blob/main/Graphic/Job%20Analytics%20%C2%B7%20Streamlit%20-%20Google%20Chrome%2001-05-2023%2000_41_14.png"  width="650" height="500" class="center"/>
 
 <br />
 
