@@ -65,8 +65,7 @@
 ### **CONCLUSION**
 
 ``` 
-1. Java, Python & Javascript are the most demanding programming languages in the market.
-2. Bangalore being the IT Hub offers highest number of job openings.
-3. Companies are opting for Work From Home (WFH) facilities.
-4. There are 3x more job opportunities for companies founded after year 2010.
+1. Software Engineer is most demanding designation in the market.
+2. IT jobs are high in demand.
+3. There are higher job opportunities for experienced candidates as compared to entry-level freshers.
 ```
