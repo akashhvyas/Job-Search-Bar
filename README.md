@@ -9,11 +9,11 @@
 
 | Files/Folder | Description |
 | -----------  | ----------- |
-| Data Tables       | This folder contains cleaned csv data files           |
-| Power BI Dashboard    | This folder contains Power BI Dashboard file and PDF      |
-| SQL Insights | This folder contains mysql insights file     |
+| CSV File  | This folder contains cleaned csv data files           |
+| Deployment    | This folder contains files related to deployment and spell checker      |
+| Graphic | This folder contains insights snapshots that are used in this Repository     |
 | Web Scraping | This folder contains Jupyter notebook file & Web driver used for Web scraping   |
-| Presentation | This is a powerpoint presentation file that contains all major insights and conclusion |
+| Presentation | This is a powerpoint presentation file that contains all major Insights and conclusion |
 
 
 
