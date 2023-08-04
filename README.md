@@ -1,6 +1,12 @@
 # Job Search Bar (Machine Learning)
 
-####  This repository contains project files related to Job Search Bar using machine learning. The project's objectives were to Create a user interface for a web-based platform that enables users to search for relevant skills, view market trends and job postings related to those skills. Also, to find out the class of job posting based on Company's linkedin followers and Employee count. The web scraping part was done in python using selenium library, formation of tables along with analysis of data was done using Excel, SQL. Development and hosting of search bar was done using HTML, CSS and Stream-lit. 
+####  This repository comprises project files concerning a Job Search Bar implemented with machine learning. The primary goals of the project were:
+
+1. Develop a user-friendly web-based platform allowing users to search for specific skills and access relevant market trends and job postings related to those skills.
+2. Employ machine learning techniques to classify job postings based on factors such as the company's LinkedIn followers and employee count.
+3. Utilize Python with the Selenium library for web scraping, extracting necessary data.
+4. Perform data analysis and organization using Excel and SQL to create informative tables.
+5. Implement the search bar and host it using HTML, CSS, and Streamlit for seamless user interaction and experience. 
 
 
 <br />
