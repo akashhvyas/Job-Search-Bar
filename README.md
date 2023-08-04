@@ -1,5 +1,7 @@
 # Job Search Bar (Machine Learning)
 
+### **INTRODUCTION**
+
 ####  This repository comprises project files concerning a Job Search Bar implemented with machine learning. The primary goals of the project were:
 
 1. Develop a user-friendly web-based platform allowing users to search for specific skills and access relevant market trends and job postings related to those skills.
