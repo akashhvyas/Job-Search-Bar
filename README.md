@@ -72,6 +72,16 @@
 
 ##### ___CLICK <a href="https://hariharan2608-job-analytics-app-y8xix9.streamlit.app">HERE</a> TO VISIT WEBSITE___
 
+<br />
+
+### CHALLENGES FACED
+
+
+1. Scraping LinkedIn followers of various companies posed a significant challenge, requiring careful execution
+   to avoid being banned.
+2. Integrating SpellChecker effectively proved time-consuming and demanding.
+3. Following the deployment of the ML model, becoming proficient in HTML and CSS for UI design took considerable time and effort.
+
 
 <br />
 
